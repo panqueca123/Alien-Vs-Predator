@@ -12,6 +12,6 @@ Alien vs Predator: Pixel Chase é um endless runner 2D, rápido e viciante. Test
 
 ## 🛠️ Tecnologias utilizadas
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript 
